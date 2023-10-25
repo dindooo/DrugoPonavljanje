@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\vjezbaDruga\bin\Debug\vjezbaDruga.exe.config
+C:\Users\ucenik\source\repos\vjezbaDruga\bin\Debug\vjezbaDruga.exe
+C:\Users\ucenik\source\repos\vjezbaDruga\bin\Debug\vjezbaDruga.pdb
+C:\Users\ucenik\source\repos\vjezbaDruga\obj\Debug\vjezbaDruga.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\vjezbaDruga\obj\Debug\vjezbaDruga.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\vjezbaDruga\obj\Debug\vjezbaDruga.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezbaDruga\obj\Debug\vjezbaDruga.exe
+C:\Users\ucenik\source\repos\vjezbaDruga\obj\Debug\vjezbaDruga.pdb
